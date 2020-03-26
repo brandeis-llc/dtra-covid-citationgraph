@@ -1,2 +1,2 @@
 feedparser==5.2.1
-wget==3.2
+requests==2.22.0

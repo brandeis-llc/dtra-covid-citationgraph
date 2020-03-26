@@ -18,7 +18,8 @@ class LocalPDFFeeder(DataFeeder):
         for r, ds, fs in os.walk(self.root):
             for f in fs:
                 if f.endswith(".pdf"):
-                    yield open(f, 'r')
+                    abs_fname = os.path.join(r, f)
+                    yield open(abs_fname, 'rb')
 
 
 class ArxivFeeder(DataFeeder):
@@ -54,6 +55,6 @@ class ArxivFeeder(DataFeeder):
     def feed(self):
         for url in self.query():
             fname, _ = request.urlretrieve(url)
-            yield open(fname, 'r')
+            yield open(fname, 'rb')
 
 
