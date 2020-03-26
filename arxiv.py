@@ -33,7 +33,6 @@ def scrape_arxiv_cscl():
 
     documents = 0
 
-    print(f"Downloading arxiv abstracts to output_file")
     while start < total:
         q = f'http://export.arxiv.org/api/query?search_query={qterm}&start={start}&max_results={pagination}'
         response = urllib.request.urlopen(q).read()
@@ -56,6 +55,7 @@ def download():
     url_list = scrape_arxiv_cscl()
     with open("url_list.txt", 'w') as ofile:
         ofile.write("\n".join(url_list))
+
     Path("pdfs").mkdir(exist_ok=True)
     for url in url_list:
         url = f"{url[:17]}pdf{url[20:]}.pdf"
