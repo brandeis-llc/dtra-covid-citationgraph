@@ -3,7 +3,7 @@ from typing import List
 
 class Paper(object):
 
-    def __init__(self, title: str, authors: List[str], refereces: List[Paper]):
+    def __init__(self, title: str, authors: List[str], refereces):
         self.title = title
         self.authors = authors
         self.refereces = refereces

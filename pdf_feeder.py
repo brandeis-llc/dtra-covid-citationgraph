@@ -10,14 +10,15 @@ class DataFeeder(object):
         raise NotImplementedError
 
 
-class LocalPDFFeeder(DataFeeder):
-    def __init__(self, path_to_pdf):
-        self.root = path_to_pdf
+class LocalFeeder(DataFeeder):
+    def __init__(self, root_path, file_ext):
+        self.root = root_path
+        self.ext = file_ext
 
     def feed(self):
         for r, ds, fs in os.walk(self.root):
             for f in fs:
-                if f.endswith(".pdf"):
+                if f.endswith(f".{self.ext}"):
                     abs_fname = os.path.join(r, f)
                     yield open(abs_fname, 'rb')
 

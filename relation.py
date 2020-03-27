@@ -7,6 +7,22 @@ import pdf_feeder
 import pdf_parser
 
 
+def testload_domain():
+    local_feeder = pdf_feeder.LocalFeeder('./test', 'pdf')
+    codomain = []
+    for paper in local_feeder.feed():
+        codomain.append(pdf_parser.parse_pdf(paper))
+    return codomain
+
+
+def testload_codomain():
+    local_feeder = pdf_feeder.LocalFeeder('./test', 'pdf')
+    codomain = []
+    for paper in local_feeder.feed():
+        codomain.append(pdf_parser.parse_pdf(paper))
+    return codomain
+
+
 def load_domain():
     arxiv_feeder = pdf_feeder.ArxivFeeder()
     domain = []
@@ -16,7 +32,7 @@ def load_domain():
 
 
 def load_codomain():
-    local_feeder = pdf_feeder.LocalPDFFeeder('/data/dtriac/dtriac-534')
+    local_feeder = pdf_feeder.LocalFeeder('/data/dtriac/dtriac-534/spv1-results', 'json')
     codomain = []
     for paper in local_feeder.feed():
         codomain.append(pdf_parser.parse_pdf(paper))
@@ -36,6 +52,6 @@ def find_citation(domain, codomain):
 
 if __name__ == '__main__':
     import json
-    dom = load_domain()
-    cod = load_codomain()
+    dom = testload_domain()
+    cod = testload_codomain()
     print(json.dumps(find_citation(dom, cod)))
