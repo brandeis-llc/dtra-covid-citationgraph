@@ -20,7 +20,8 @@ class LocalFeeder(DataFeeder):
             for f in fs:
                 if f.endswith(f".{self.ext}"):
                     abs_fname = os.path.join(r, f)
-                    yield open(abs_fname, 'rb')
+                    mode = 'rb' if self.ext == 'pdf' else 'r'
+                    yield open(abs_fname, mode)
 
 
 class ArxivFeeder(DataFeeder):

@@ -34,6 +34,10 @@ def parse_pdf(pdf_fp):
     fname, json = run_spv1(pdf_fp)
     return parse_spv1_json(fname, json)
 
+def parse_json(json_fp):
+    return parse_spv1_json(json_fp.name, json_fp.read())
+
+
 
 if __name__ == '__main__':
     feeder = pdf_feeder.LocalPDFFeeder('./test')
