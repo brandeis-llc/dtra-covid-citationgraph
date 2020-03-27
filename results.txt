@@ -1,0 +1,69 @@
+!!!! spv1 failed to parse /tmp/tmpaqwf7sbv
+!!!! spv1 failed to parse /tmp/tmp74r0n9yv
+!!!! spv1 failed to parse /tmp/tmpvxyup244
+!!!! spv1 failed to parse /tmp/tmpm1e7do98
+!!!! spv1 failed to parse /tmp/tmpw1xelfxw
+!!!! spv1 failed to parse /tmp/tmp7apdds3c
+!!!! spv1 failed to parse /tmp/tmpacz5bbqz
+!!!! spv1 failed to parse /tmp/tmpqsuj7qh_
+!!!! spv1 failed to parse /tmp/tmp9m_qqj0x
+!!!! spv1 failed to parse /tmp/tmpl5zb9p49
+!!!! spv1 failed to parse /tmp/tmpxxrugojh
+!!!! spv1 failed to parse /tmp/tmp6qbsxjeo
+!!!! spv1 failed to parse /tmp/tmppjrjx7t7
+!!!! spv1 failed to parse /tmp/tmpn_fastce
+!!!! spv1 failed to parse /tmp/tmpo_pigeoh
+!!!! spv1 failed to parse /tmp/tmpnabur8pb
+!!!! spv1 failed to parse /tmp/tmp_aw69xp2
+!!!! spv1 failed to parse /tmp/tmphhargero
+!!!! spv1 failed to parse /tmp/tmp7ugrbea5
+!!!! spv1 failed to parse /tmp/tmpc_xsyxvq
+!!!! spv1 failed to parse /tmp/tmpkkhdas43
+!!!! spv1 failed to parse /tmp/tmpqoa95wmz
+!!!! spv1 failed to parse /tmp/tmpni9l7e2e
+!!!! spv1 failed to parse /tmp/tmp8m2hid05
+!!!! spv1 failed to parse /tmp/tmp55stnzlo
+!!!! spv1 failed to parse /tmp/tmpy732d8ix
+!!!! spv1 failed to parse /tmp/tmpu9p3zgtn
+!!!! spv1 failed to parse /tmp/tmpfer_heo9
+!!!! spv1 failed to parse /tmp/tmpgq44es_v
+!!!! spv1 failed to parse /tmp/tmpsqf5q4dr
+!!!! spv1 failed to parse /tmp/tmp41f7jd5_
+done reading domain, 148 documents loaded
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/12. Resilience and Risk, Ch16. Resilience and fault tolerance in electrical engineering.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/6. Vulnerabilities of ITS and the need for resilience.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/apnet17_bestpaper_certificate.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-08-1-0027 Barabasi 2012 Network science - Luck or reason.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-08-1-0027 Barabasi Song Wang 2012 Handful of papers dominates citation.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-09-1-0035 Emmerich Bunde Havlin 2012 Diffusion annihilation and chemical reactions in complex.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-09-1-0035 Gozolchiani Havlin 2013 Nonlinear dynamic - New tricks for big kicks.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-09-1-0049 Szymanski Lin Asztalos Sreenivasan 2013 Failure dynamics of the.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-09-1-0050 Li Chen Wang Zhang 2014 Voter Model on Signed Social Networks.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-09-1-0050 Ranjan Zhang Boley 2013 Incremental Computation.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0011 Mukherjee Habib Dikbiyik 2014 Network Adaptability from Disaster Disruptions.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0017 Ackerman Pinson 2013 Gauging the Threat.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0075 Reedy Gastil Gabbay 2013 Terrorism and Small Groups - An Analytical.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0085 Tati Bo Cao Swami La Porta 2014 Adaptive Algorithms for.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0085 Zheng Cao 2013 Minimizing Probing Cost and Achieving.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0086  Nitinawarat Atia Veeravalli 2013 Controlled.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0087 Alderson Brown 2013 Sometimes There is No Most Vital Arc.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0087 Brown Kline Thomas Washburn Wood 2011 A Game-Theoretic.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0087 Salmeron Alderson Brown 2011 RESILIENCE REPORT - ELECTRIC POWER INFRASTRUCTURE SUPPORTING.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0087 Salmeron Alderson Brown Wood 2012 RESILIENCE REPORT - THE GUAM POWER AUTHORITY ELECTRIC.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0087 Wang Baldick 2014 Interdiction Analysis of Electric Grids combining cascading.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0102 Kas Carley 2013 Monitoring social centrality for.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0102 Kas Carley 2014 An Incremental Algorithm for Updating.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-10-1-0120 Wang Abdelzaher Kaplan 2014 Surrogate Mobile Sensing.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-11-1-0016 Chang Cochran Mortveit 2013 Adaptive Complex Contagions.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/HDTRA1-13-1-0029 Shin Qian Zhang 2014 Cascading effects in Interdependent networks.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/lgmabhc18.pdf.json
+!!!! spv1 failed to parse /data/dtriac/dtriac-534/spv1-results/WWW_2017_2.pdf.json
+done reading codomain, 506 documents loaded
+{
+  "(gamero)-Forecast of the evolution of the contagious disease caused by novel coronavirus (2019-nCoV) in China": [
+    "(nsoesie)-A Simulation Optimization Approach to Epidemic Forecasting"
+  ],
+  "(cinelli)-The COVID-19 Social Media Infodemic": [
+    "(schmidt)-Anatomy of news consumption on Facebook"
+  ]
+}
